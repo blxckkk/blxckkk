@@ -2,7 +2,7 @@
 - 👀 Estou interessado: Em programar
 - 🌱 Atualmente estou aprendendo: A programar
 - 💞️ Procuro colaborar em: Ajudar e entender tudo
-- 📫 Como chegar até mim: Pelo meu email:Wesleymelo407@hotmail.com
+- 📫 Como chegar até mim: Pelo meu email:Wesley.pereira.melo@escola.pr.gov.br
 
 <!---
 blxckkk/blxckkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
